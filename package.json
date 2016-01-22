@@ -1,0 +1,25 @@
+{
+  "name": "penguin-contacts",
+  "version": "1.0.0",
+  "description": "penguin-contacts",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougalderman/penguin-contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougalderman/penguin-contacts/issues"
+  },
+  "homepage": "https://github.com/dougalderman/penguin-contacts#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.6"
+  }
+}
